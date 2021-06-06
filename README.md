@@ -1,0 +1,2 @@
+# Regression_4
+Health care professionals need a cheaper and easier way to predict body fat than current methods. We are trying to see is measuring circumference of different body parts can predict overall body fat. If the circumference data passes the LINE assumptions, we can fit a MLR model to the data and use it to predict the body fat of individuals. This would work by taking a measure of one of more circumferences, plugging it into the MLR model, and the model predicting the body fat.
